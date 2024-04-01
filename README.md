@@ -13,5 +13,5 @@
 
 
 ---
-# Findings and Reconnendation
+# Findings and Recommendation
 
